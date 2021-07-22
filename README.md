@@ -1,18 +1,32 @@
 ![LinkedIn cover](https://user-images.githubusercontent.com/71491992/126656797-ea8759c3-66e3-4759-a3ab-e896a21d2b58.png)
 
-### Hi there 👋
+### Hi there, I'm Rizky Ramadhan, Also Known As Kyra 👋
+Front end development and UI/UX Enthusiast.
 
-<!--
-**kyraongithub/kyraongithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me on: 
+- [Linkedin](https://www.linkedin.com/in/rizkykyra/)
+- [Instagram](https://www.instagram.com/kyrmdhn_/)
+- [Portfolio](https://kyraongithub.github.io/portofolio/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About My Skill
+### Front End Development
+- HTML 5
+- CSS 3
+- Javascript
+- ReactJS
+- VueJS
+- NextJS
+
+### Design
+- Web Design
+- UI/UX Design
+
+### Tools
+- Figma
+- Visual Studio Code
+- Github
+
+### Databases
+- MySQL
+- Firebase
