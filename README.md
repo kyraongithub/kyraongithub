@@ -22,11 +22,11 @@ You can find me on:
 - Web Design
 - UI/UX Design
 
+### Databases
+- MySQL
+- Firebase
+
 ### Tools
 - Figma
 - Visual Studio Code
 - Github
-
-### Databases
-- MySQL
-- Firebase
