@@ -1,3 +1,5 @@
+![LinkedIn cover](https://user-images.githubusercontent.com/71491992/126656797-ea8759c3-66e3-4759-a3ab-e896a21d2b58.png)
+
 ### Hi there 👋
 
 <!--
