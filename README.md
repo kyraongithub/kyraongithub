@@ -6,8 +6,7 @@ Front end development and UI/UX Enthusiast.
 
 You can find me on: 
 - 👥 [Linkedin](https://www.linkedin.com/in/rizkykyra/)
-- 📷 [Instagram](https://www.instagram.com/kyrmdhn_/)
-- 🌐 [Portfolio Website](https://kyraongithub.github.io/portofolio/)
+- 📷 [Instagram](https://www.instagram.com/code.kyra/)
 
 
 ### About My Skill
