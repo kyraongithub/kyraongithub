@@ -9,28 +9,11 @@ You can find me on:
 - [Instagram](https://www.instagram.com/code.kyra/)
 - [Website](https://meetkyra.vercel.app/)
 - [TikTok](https://www.tiktok.com/@code.kyra)
+- [YouTube](https://www.youtube.com/@codekyra)
 
 ### About My Skill
-### Front End Development 👨🏻‍💻
-- HTML 5
-- CSS 3
-- Javascript
-- Node JS
-- ReactJS
-- NextJS
-- Express JS
-
-### Design 🎨
-- Web Design
-- UI/UX Design
-
-### Databases 📊
-- MySQL
-- Firebase
-- MongoDB
-
-### Tools 🛠️
-- Figma
-- Visual Studio Code
-- Github
-- Gitlab
+**Skills**
+**Skillset** – Web Development, Problem Solving, Critical thinking, Front-End Development, Back-End Development, SCRUM Agile
+Methodology
+**Toolset** – React JS, Next JS, Node JS, Express JS, react-redux, Jest, SASS/SCSS, MongoDB, Firebase, Figma, VS Code, Jira,
+Trello, Notion, Tanstack React Query
