@@ -12,10 +12,8 @@ You can find me on:
 - [YouTube](https://www.youtube.com/@codekyra)
 
 ### About My Skill
-**Skillset** 
-Web Development, Problem Solving, Critical thinking, Front-End Development, Back-End Development, SCRUM Agile
+**Skillset**: Web Development, Problem Solving, Critical thinking, Front-End Development, Back-End Development, SCRUM Agile
 Methodology
 
-**Toolset**
-React JS, Next JS, Node JS, Express JS, react-redux, Jest, SASS/SCSS, MongoDB, Firebase, Figma, VS Code, Jira,
+**Toolset**: React JS, Next JS, Node JS, Express JS, react-redux, Jest, SASS/SCSS, MongoDB, Firebase, Figma, VS Code, Jira,
 Trello, Notion, Tanstack React Query
