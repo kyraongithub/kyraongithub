@@ -7,7 +7,7 @@ Front End development and UI/UX Enthusiast.
 You can find me on: 
 - [Linkedin](https://www.linkedin.com/in/rizkykyra/)
 - [Instagram](https://www.instagram.com/code.kyra/)
-- [Website](https://meetkyra.vercel.app/)
+- [Website](https://www.kyraspace.com/)
 - [TikTok](https://www.tiktok.com/@code.kyra)
 - [YouTube](https://www.youtube.com/@codekyra)
 
