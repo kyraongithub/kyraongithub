@@ -132,10 +132,10 @@ Key highlights:
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyraongithub&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyraongithub&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-stats.kyraspace.com/api?username=kyraongithub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-stats.kyraspace.com/api/top-langs/?username=kyraongithub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
 ---
 
 # 📢 Content & Community
