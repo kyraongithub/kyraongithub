@@ -1,4 +1,4 @@
-![LinkedIn cover](https://user-images.githubusercontent.com/71491992/126656797-ea8759c3-66e3-4759-a3ab-e896a21d2b58.png)
+![LinkedIn cover](https://github.com/user-attachments/assets/63887910-89d8-4e80-bd2e-ccfffe28a7cd)
 
 # Hi, I'm Rizky Ramadhan (Kyra) 👋🏻
 
