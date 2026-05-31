@@ -146,15 +146,6 @@ Find me here:
 LinkedIn  
 https://www.linkedin.com/in/rizkykyra/
 
-YouTube  
-https://www.youtube.com/@codekyra
-
-TikTok  
-https://www.tiktok.com/@code.kyra
-
-Instagram  
-https://www.instagram.com/code.kyra
-
 Website  
 https://www.kyraspace.com/
 
